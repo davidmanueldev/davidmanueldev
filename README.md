@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**David-Dev786/David-Dev786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello I am David Manuel, Front-End Developer | Software Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+  [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=David-Dev786&count_private=true)](https://github.com/David-Dev786/github-readme-stats)
