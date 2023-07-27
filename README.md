@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Dev786&label=Profile%20views&color=0e75b6&style=flat" alt="David-Dev786" /> </p>
 
-- 🔭 I’m currently working on JavaScript<!--[JavaScript Web](https://github.com/jaiswaladi246/30-Days-Of-DevOps)-->
+- 🔭 I’m currently working on JavaScript<!--[JavaScript Web](https://github.com)-->
 
 - 🌱 I’m currently learning **Front-End & Software Development**
 
