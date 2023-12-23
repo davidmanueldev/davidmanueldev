@@ -1,16 +1,14 @@
 <h1 align="center">Hey Everyone, I'm David Manuel</h1>
-<h3 align="center">A passionate Front-End Developer | Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Dev786&label=Profile%20views&color=0e75b6&style=flat" alt="David-Dev786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=David-Dev786&label=Profile%20views&color=0e75b6&style=flat" alt="davidmanueldev" /> </p>
 
-- 🔭 I’m currently working on JavaScript<!--[JavaScript Web](https://github.com)-->
+- 🔭 I’m currently working on Python<!--[Python](https://github.com)-->
 
-- 🌱 I’m currently learning **Front-End & Software Development**
+- 🌱 I’m currently learning a lot of stuff
 
-- 👨‍💻 All of my projects are available at [https://github.com/David-Dev786](https://github.com/David-Dev786)
-
-- 💬 Ask me about **Front-End & Software Development**
+- 👨‍💻 All of my projects are available at [https://github.com/davidmanueldev](https://github.com/davidmanueldev)
 
 - 📫 How to reach me **davidmanuel.dev@gmail.com**
 
@@ -42,6 +40,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=David-Dev786&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact" alt="David-Dev786" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmanueldev&show_icons=true&theme=react&hide_border=true&locale=en&layout=compact" alt="davidmanueldev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=David-Dev786&show_icons=true&theme=react&hide_border=true&locale=en" alt="David-Dev786" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmanueldev&show_icons=true&theme=react&hide_border=true&locale=en" alt="Stats davidmanueldev" /></p>
